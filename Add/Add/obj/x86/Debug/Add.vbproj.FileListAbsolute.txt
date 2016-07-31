@@ -1,0 +1,9 @@
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\bin\Debug\Add.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\bin\Debug\Add.pdb
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\bin\Debug\Add.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\obj\x86\Debug\Add.Resources.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\obj\x86\Debug\Add.vbproj.GenerateResource.Cache
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\obj\x86\Debug\Add.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\obj\x86\Debug\Add.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Add\Add\obj\x86\Debug\Add.pdb
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Add\Add\obj\x86\Debug\Add.Add.resources
